@@ -13,6 +13,8 @@ EDA is performed to treat outliers and missing values carefully before making an
 ## **Entity Relationship Diagram (ERD)**
 <img width="590" height="889" alt="image" src="https://github.com/user-attachments/assets/19305084-64fb-41fd-9119-0b8e1848b3b2" />
 
+## **Retail Dataset**
+https://github.com/MalhotraUmang/Capstone_Marketing_And_Retail_Analytics/blob/main/Retail_dataset.xlsx
 
 ## **Project pipeline:**
 1. *Data exploration and cleaning*: Identification and appropriate treatment of any missing/duplicate values in features.
